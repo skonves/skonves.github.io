@@ -1,0 +1,25 @@
+article h1 {
+    font-size: 32px;
+}
+
+article h2 {
+    font-size: 24px;
+}
+
+article {
+    text-align: justify;
+}
+
+p>code {
+    padding: 2px 5px;
+    color: #383a42;
+    background-color: #fafafa;
+}
+
+.hljs, p>code {
+    border: 1px solid #eee;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}

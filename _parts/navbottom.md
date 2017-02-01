@@ -1,0 +1,2 @@
+# About this blog
+Steve Konves is a software developer in the Phoenix area.  This content is my own and doesn't necessarily reflect the views of my employer.  If you find a typo or want to suggest a fix, feel free to submit a pull request.
